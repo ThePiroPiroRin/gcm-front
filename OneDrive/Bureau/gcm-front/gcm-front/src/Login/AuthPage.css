@@ -1,0 +1,48 @@
+.title {
+padding-top:120px;
+font-weight: 700;
+padding-bottom: 0px;
+}
+
+.auth-container {
+  padding-top: 0px;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0; 
+}
+
+.auth-card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+.col-form-label {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  max-width: 300px; 
+  height: auto;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+.mb-3.d-flex.justify-content-center.gap-5 {
+  display: flex;
+  justify-content: center;
+  gap: 5rem; 
+  margin-top: 1rem; 
+  padding-left: 175px;
+}
+
+
+

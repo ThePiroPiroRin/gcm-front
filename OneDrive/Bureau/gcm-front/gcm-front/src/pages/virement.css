@@ -1,0 +1,26 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  .custom-table {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    border: 1px solid black;
+    margin-top: 20px; 
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .custom-table th {
+    background-color: rgba(220, 20, 60, 0.7);
+  }
+  

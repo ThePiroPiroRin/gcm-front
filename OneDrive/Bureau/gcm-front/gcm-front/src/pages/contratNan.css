@@ -1,0 +1,24 @@
+.frame {
+    padding-left: 170px;
+    padding-top: 70px;
+}
+
+.secondFrame {
+    padding-left: 450px;
+    padding-top: 80px;
+}
+
+.thirdFrame {
+    padding-left: 450px;
+    padding-top: 80px;
+    width: 2300px;
+}
+
+label{
+    font-weight: 500;
+}
+
+.checkline{
+    margin-top: 16px;
+}
+

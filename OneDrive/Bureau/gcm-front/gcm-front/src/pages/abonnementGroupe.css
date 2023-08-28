@@ -1,0 +1,47 @@
+.frame {
+    padding-left: 170px;
+    padding-top: 70px;
+}
+
+.secondFrame {
+    padding-left: 450px;
+    padding-top: 80px;
+}
+
+.thirdFrame {
+    padding-left: 450px;
+    padding-top: 80px;
+    width: 2300px;
+}
+
+.fourthFrame {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 80px;
+}
+
+label{
+    font-weight: 500;
+}
+
+.checkline{
+    margin-top: 16px;
+}
+
+.form-column {
+    flex: 1;
+    margin-left: 10px; 
+  }
+
+  .form-column1 {
+    margin-top: 30px;
+    flex: 0.5;
+  }
+
+  .form-column2 {
+    margin-top: 55px;
+  }
+
+  .form-container {
+    display: flex;
+  }
